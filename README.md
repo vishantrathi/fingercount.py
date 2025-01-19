@@ -2,7 +2,7 @@
 # Finger Counting with OpenCV
 
 ![20250118_224533](https://github.com/user-attachments/assets/5da4cc48-411d-4c64-9d97-f18b3b0514ce)
-![20250118_224539](https://github.com/user-attachments/assets/fb01d3b3-7740-4e99-a14d-64fb917265) 
+![20250118_224539](https://github.com/user-attachments/assets/fb01d3b3-7740-4e99-a14d-64fb9172650d)
 
 ## Overview
 
